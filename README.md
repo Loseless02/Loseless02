@@ -13,7 +13,6 @@
 - I love to automate my continuous tasks by writing a little code :D
 - I'm a fast lerner and love to learn new stuff
 - I have some knowledge of Kali Linux.
-- 
 - I’m currently open for an Intern or a new apprenticeship (Ausbildung) opportunity, contact me to take a look at my resume
 
 <br><br>
@@ -43,4 +42,4 @@
 
 
 **Disclaimer: Please keep in mind that, I am new to this community and do not have the same level of experience as a full-time developer. However, I am motivated to expand my knowledge.
-As you can see in my profile, I have skills in programming languages such as HTML, CSS, JavaScript, C#, and Python, which make me suitable for starting an Ausbildung program. I am highly motivated to learn and improve my skills. With the training and experience provided by this program, I am confident that I will become a talented developer in this field.***
+As you can see in my profile, I have skills in programming languages such as HTML, CSS, JavaScript, C#, and Python, which make me suitable for starting an Ausbildung program. I am highly motivated to learn and improve my skills. I am confident that I will become a talented developer in this field.***
