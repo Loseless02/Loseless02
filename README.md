@@ -10,7 +10,7 @@
 - In a short time taught myself the basics of Front-end Dev (Js,Html,Css)
 - I love to automate my continuous tasks by writing a little code :D
 - I'm a fast lerner and love to learn new stuff
-- I have some knowledge of Kali Linux.
+- I'm using Kali-Linux and Windows 11.
 - I’m currently open for an Intern or a new apprenticeship (Ausbildung) opportunity, contact me to take a look at my resume
 
 <br><br>
