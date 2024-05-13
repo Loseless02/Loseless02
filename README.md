@@ -39,5 +39,5 @@
 #
 
 
-**Disclaimer: Please keep in mind that, I am new to this community and do not have the same level of experience as a full-time developer. However, I am motivated to expand my knowledge.
-As shown in my profile, I have the basic skills in programming languages such as HTML, CSS, JavaScript, C#, and Python, which makes me suitable for starting an *Ausbildung* program. I am highly motivated to learn and improve my skills. I am confident that I will become a talented developer in this field. Thank you.***
+<!--**Disclaimer: Please keep in mind that, I am new to this community and do not have the same level of experience as a full-time developer. However, I am motivated to expand my knowledge.
+As shown in my profile, I have the basic skills in programming languages such as HTML, CSS, JavaScript, C#, and Python, which makes me suitable for starting an *Ausbildung* program. I am highly motivated to learn and improve my skills. I am confident that I will become a talented developer in this field. Thank you.***-->
