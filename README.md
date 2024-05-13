@@ -6,7 +6,7 @@
 # **About me**
 <br>
 
-- I'm coding since 2022
+- I'm coding since 2021
 - In a short time taught myself the basics of Front-end Dev (Js,Html,Css)
 - I love to automate my continuous tasks by writing a little code :D
 - I'm a fast lerner and love to learn new stuff
