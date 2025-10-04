@@ -7,11 +7,12 @@
 <br>
 
 - I'm coding since 2021
+- I do have exp in Game Developement
+- I do 3D Models in Blender, add texture to them and animate them sometimes
 - In a short time taught myself the basics of Front-end Dev (Js,Html,Css)
 - I love to automate my continuous tasks by writing a little code :D
 - I'm a fast lerner and love to learn new stuff
-- I'm using Kali-Linux and Windows 11.
-- I’m currently open for an Intern or a new apprenticeship (Ausbildung) opportunity, contact me to take a look at my resume
+- I've used Kali-Linux and Windows 11.
 
 <br><br>
 
