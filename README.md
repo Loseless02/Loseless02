@@ -1,7 +1,7 @@
 <p align="left">
   <a src="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&left=true&vCenter=true&width=600&height=100&lines=Hi,+I+Am+Atherion.;Self-taught+Basics+of+Front-End+Dev,;Active+Learner/Researcher,;Currently+Learning+CSharp.."></a>
 </p>
-## **About myself**
+ <b> About Myself</b>
 <br></br>
 
 - I'm coding since 2020.
