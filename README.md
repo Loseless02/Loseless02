@@ -1,8 +1,8 @@
 <p align="left">
   <a src="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&left=true&vCenter=true&width=600&height=100&lines=Hi,+I+Am+Atherion.;Self-taught+Basics+of+Front-End+Dev,;Active+Learner/Researcher,;Currently+Learning+CSharp.."></a>
 </p>
-# *About myself*
-<br>
+## **About myself**
+<br></br>
 
 - I'm coding since 2020.
 - I do have exp in Game Developement.
@@ -30,7 +30,7 @@
 <br>
 
 
-## **Contact me!**
+## **Contact me**
 <div align='left'>
 
 <b>Contact: *vet-physic0l@icloud.com*</b>
